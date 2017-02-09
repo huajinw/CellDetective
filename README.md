@@ -5,14 +5,14 @@ To run it, you need python3.5 environment and some basic modules including: tkin
 
 No third party software is required.  
 
-To run the program, you need to be able to have permission to read and write from your hard drive, since it is interactive. This is run on a Mac so its performance on Windows has not tested.  
+To run the program, you need to have permission to read and write from the hard drive. This version is tested on Mac OS X.  Its performance on Windows has not tested.  
 
 This software has the following features: 
-1) You will be able to read, write, and save images files of many formats (tested on .tif, .jpg, .gif, but should be able to do much more) 
-2) You will be able to split and merge channels 
-3) You will be able to apply thresholding method to generate masks and segment images.  
-4) You will be able to inspect the histogram of images (pixel distribution) 
-5) you will be able to use masks to quantify objects in the image, and correct for outliers.  
+1) File manipulation: read, write, and save image files of many formats (tested on .tif, .jpg, .gif, but should be able to do much more) 
+2) Channel manipulation: split and merge channels 
+3) Perform image segmentation using thresholding method 
+4) Inspect the histogram of images (pixel distribution) 
+5) Use masked image to quantify objects in the image, and correct for outliers
 
 
 
