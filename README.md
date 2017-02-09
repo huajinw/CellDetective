@@ -14,7 +14,7 @@ This software has the following features:
 4) Inspect the histogram of images (pixel distribution) 
 5) Use masked image to quantify objects in the image, and correct for outliers
 
-
+See https://youtu.be/YxQfAlQ_nLo for demo. 
 
 
 References: 
